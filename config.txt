@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=10
-game=.
-stayinchannel=true
+owner=448964162840690700
+prefix=3
+game=3play || FalonCommunity
+stayinchannel=flase
 songinstatus=false
-token=NTQ0MTM3NDkzNzg0ODIxODEx.D0GvDA.j2Ycht2JeS66_41pmv26vhVjcJM
+token=NTQ2MjUyNTg3Nzk2NTI5MTc3.D0lhLg.0BSGICuYT1GWyeE373SbcZqB3V4
